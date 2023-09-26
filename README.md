@@ -37,7 +37,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://linkedin.com/in/aecio-daniel-4618b824a/)
-[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/necroblazer)
+[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/greyworm9029)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=default)](https://www.instagram.com/daniellpgdlns)
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e237e&height=120&section=footer"/>
